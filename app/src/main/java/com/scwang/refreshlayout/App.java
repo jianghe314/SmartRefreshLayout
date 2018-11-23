@@ -18,6 +18,7 @@ import com.squareup.leakcanary.LeakCanary;
  *
  * Created by SCWANG on 2017/6/11.
  */
+//新建参考学习分支
 
 public class App extends Application {
 
